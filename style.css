@@ -1,0 +1,90 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+    }
+    .exprience{
+        color: orange;
+    }
+    .full-concept{
+        display:   flex;
+        
+    }
+  .link-button{
+      text-decoration: none;
+      
+      margin-left: 30px;
+      margin-bottom: 40px;
+      margin-top: 40px;
+      padding-left: 15px;
+      padding-right: 20px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+      box-shadow: 5px 5px rgb(218, 65, 212);
+      border-radius: 10px 10px ;
+      background-image: linear-gradient(red rgba(255, 0, 0, 0.651));
+    
+    
+  } 
+
+  
+
+
+
+    .full-banner{
+        background-image: url(Frame\ 58.jpg);
+    }
+    .center-idea{
+        text-align:center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding: auto;
+
+       
+    }
+  
+    
+
+
+    .half-width{
+        width: 60%;
+        padding-left:20px;
+    }
+    .half-width img{
+        width: 50%;
+        height: 70%;
+    }
+
+
+        .recipes-item{
+            width: 25%px;
+            margin-right: 5%;
+            margin-left: 5%;
+            box-sizing: border-box;
+            box-shadow: 5px 2px 5px 10px  gray;
+            padding: 10px;
+            border-radius: 20px 20px;
+
+      
+        }
+        .recipes-item img{
+            width: 100%;
+
+        }
+        
+        
+        .action{
+            color: rgba(255, 255, 255, 0.781);
+            text-align: center;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            background-color: rgb(14, 12, 12);
+        }
+       
+      
+  
+
+
+
+
+
